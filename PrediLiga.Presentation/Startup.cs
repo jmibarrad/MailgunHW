@@ -4,9 +4,9 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-[assembly: Microsoft.Owin.OwinStartup(typeof(App.PrediLiga.Presentation.Startup))]
+[assembly: Microsoft.Owin.OwinStartup(typeof(App.Prediliga.Presentation.Startup))]
 
-namespace App.PrediLiga.Presentation
+namespace App.Prediliga.Presentation
 {
     using Owin;
 

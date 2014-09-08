@@ -1,0 +1,169 @@
+﻿<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-4 column">
+            <h1>
+                Liga Tal
+            </h1>
+        </div>
+        <div class="col-md-4 column">
+            <img alt="140x140" src="http://lorempixel.com/140/140/" class="img-thumbnail" />
+        </div>
+        <div class="col-md-4 column">
+            <a class="btn btn-lg btn-primary" href="/admin">Back</a>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-6 column">
+            <h2>
+                Equipos Enlistados
+            </h2>
+        </div>
+        <div class="col-md-6 column">
+            <h2>
+                Partidos
+            </h2>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-6 column">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            #
+                        </th>
+                        <th>
+                            Nombre
+                        </th>
+                        <th>
+                            Numero de Jugadores
+                        </th>
+                        <th>
+                            Director Tecnico
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="equipo in Equipos">
+                        <td>{{equipo.id_equipo}}</td>
+                        <td>{{equipo.nombre}}</td>
+                        <td>{{equipo.num_jugadores}}</td>
+                        <td>{{equipo.director_tecnico}}</td>
+                        <td>
+                            <a href="" ng-click="editTeam(equipo.id_equipo, equipo.nombre, equipo.num_jugadores, equipo.director_tecnico)"><i class=" glyphicon glyphicon-pencil"></i></a>
+                            <a href="" ng-click="deleteTeam(equipo.nombre)"><i class="glyphicon glyphicon-remove"></i></a>
+                        </td>
+                    </tr> 
+                </tbody>
+            </table>
+        </div>
+        <div class="col-md-6 column">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            #
+                        </th>
+                        <th>
+                            Equipo 1
+                        </th>
+                        <th>
+                            Vs.
+                        </th>
+                        <th>
+                            Equipo 2
+                        </th>
+                        <th>
+                            Fecha
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="partido in Partidos">
+                        <td>{{partido.id_partido}}</td>
+                        <td>{{partido.equipo1}}</td>
+                        <td>vs.</td>
+                        <td>{{partido.equipo2}}</td>
+                        <td>{{partido.fecha}}</td>
+                        <td>
+                            <a href="" ng-click="editGame(partido.id_partido, partido.equipo1, partido.equipo2, partido.fecha)"><i class=" glyphicon glyphicon-pencil"></i></a>
+                            <a href="" ng-click="deleteGame(partido.id_partido)"><i class="glyphicon glyphicon-remove"></i></a>
+                        </td>
+                    </tr> 
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-6 column">
+            <div class="row" ng-hide="isEditing1">
+                <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="addNewTeam()">
+                    <h2 class="text-center">Nuevo Equipo</h2>
+                    <div class="form-box">
+                        <div class="form-group">
+                            <input ng-model="idEquipo" type="text" class="form-control" placeholder="ID del Equipo" required />
+                            <input ng-model="NombreEquipo" type="text" class="form-control" placeholder="Nombre del Equipo" required />
+                            <input ng-model="NumeroJugadores" type="text" class="form-control" placeholder="Numero de Jugadores" required />
+                            <input ng-model="DirectorTecnico" type="text" class="form-control" placeholder="Director Tecnico" required />
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-block" type="submit" ng-click="addNewTeam()">Agregar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="row" ng-show="isEditing1">
+                <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="FinishEditing1()">
+                    <h2 class="text-center">Editar Equipo</h2>
+                    <div class="form-box">
+                        <div class="form-group">
+                            <input ng-model="NuevoidEquipo" type="text" class="form-control" placeholder="ID del Equipo" required />
+                            <input ng-model="NuevoNombreEquipo" type="text" class="form-control" placeholder="Nombre del Equipo" required />
+                            <input ng-model="NuevoNumeroJugadores" type="text" class="form-control" placeholder="Numero de Jugadores" required />
+                            <input ng-model="NuevoDirectorTecnico" type="text" class="form-control" placeholder="Director Tecnico" required />
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-block" type="submit">Guardar</button>
+                            <button class="btn btn-primary btn-block" type="button" ng-click="cancelEdit1()">Cancelar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="col-md-6 column">
+            <div class="row" ng-hide="isEditing2">
+                <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="addNewGame()">
+                    <h2 class="text-center">Nuevo Juego</h2>
+                    <div class="form-box">
+                        <div class="form-group">
+                            <input ng-model="idJuego" type="text" class="form-control" placeholder="ID del Juego" required />
+                            <input ng-model="Equipo1" type="text" class="form-control" placeholder="Equipo 1" required />
+                            <input ng-model="Equipo2" type="text" class="form-control" placeholder="Equipo 2" required />
+                            <input ng-model="Fecha" type="date" class="form-control" placeholder="Fecha del Partido" required />
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-block" type="submit" ng-click="addNewGame()">Agregar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="row" ng-show="isEditing2">
+                <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="FinishEditing2()">
+                    <h2 class="text-center">Editar Juego</h2>
+                    <div class="form-box">
+                        <div class="form-group">
+                            <input ng-model="NuevoidJuego" type="text" class="form-control" placeholder="ID del Juego" required />
+                            <input ng-model="NuevoEquipo1" type="text" class="form-control" placeholder="Equipo 1" required />
+                            <input ng-model="NuevoEquipo2" type="text" class="form-control" placeholder="Equipo 2" required />
+                            <input ng-model="NuevaFecha" type="date" class="form-control" placeholder="Fecha del Partido" required />
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-block" type="submit">Guardar</button>
+                            <button class="btn btn-primary btn-block" type="button" ng-click="cancelEdit2()">Cancelar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

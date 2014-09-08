@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace App.PrediLiga.Presentation.Routing
+namespace App.Prediliga.Presentation.Routing
 {
     using System;
     using System.Web;

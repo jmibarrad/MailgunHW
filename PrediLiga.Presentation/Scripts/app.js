@@ -15,7 +15,6 @@ angular.module('app', ['ui.router', 'app.filters', 'app.services', 'app.directiv
                 url: '/',
                 templateUrl: '/views/index',
                 controller: 'HomeCtrl'
-
             })
             .state('about', {
                 url: '/about',
@@ -28,6 +27,47 @@ angular.module('app', ['ui.router', 'app.filters', 'app.services', 'app.directiv
                 templateUrl: '/views/login',
                 controller: 'LoginCtrl'
             })
+            .state('register', {
+                url: '/register',
+                layout: 'basic',
+                templateUrl: '/views/register',
+                controller: 'RegisterCtrl'
+            })
+            .state('ForgotPassword', {
+                url: '/forgot-password',
+                layout: 'basic',
+                templateUrl: '/views/forgot-password',
+                controller: 'ForgotPasswordCtrl'
+            })
+
+            .state('Profile', {
+                url: '/profile',
+                layout: 'basic',
+                templateUrl: '/views/profile',
+                controller: 'ProfileCtrl'
+            })
+
+            .state('Admin', {
+                url: '/admin',
+                layout: 'basic',
+                templateUrl: '/views/admin',
+                controller: 'AdminCtrl'
+            })
+
+            .state('ConfigureLeague', {
+                url: '/configleague/:id',
+                layout: 'basic',
+                templateUrl: '/views/configleague',
+                controller: 'ConfigLeagueCtrl'
+            })
+
+            .state('League', {
+                url: '/league/:id',
+                layout: 'basic',
+                templateUrl: '/views/league',
+                controller: 'LeagueCtrl'
+            })
+
             .state('otherwise', {
                 url: '*path',
                 templateUrl: '/views/404',

@@ -1,0 +1,89 @@
+﻿<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-4 column">
+            <img alt="140x140" src="http://lorempixel.com/140/140/" class="img-circle" />
+        </div>
+        <div class="col-md-4 column">
+            <h3>
+                Liga (NombreLiga)
+            </h3>
+        </div>
+        <div class="col-md-4 column">
+            <a class="btn btn-lg btn-primary btn-block" href="/profile">Back</a>      
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            IdPartido
+                        </th>
+                        <th>
+                            Equipo 1
+                        </th>
+                        <th>
+                            Score 1
+                        </th>
+                        <th>
+                            Vs.
+                        </th>
+                        <th>
+                            Equipo 2
+                        </th>
+                        <th>
+                            Score 2
+                        </th>
+                        <th>
+                            Fecha
+                        </th>
+                        <th>
+                            Predict
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="partido in lospartidos">
+                        <td>{{partido.idjuego}}</td>
+                        <td>{{partido.equipo1}}</td>
+                        <td>{{partido.s1}}</td>
+                        <td>vs.</td>
+                        <td>{{partido.equipo2}}</td>
+                        <td>{{partido.s2}}</td>
+                        <td>{{partido.fecha}}</td>
+                        <td>
+                            <div ng-if="partido.predicted === 0">
+                                <a href="" ng-click="StartPrediction(partido.equipo1, partido.equipo2)"><i class="glyphicon glyphicon-eye-close"></i></a>
+                            </div>
+                            <div ng-if="partido.predicted === 1">
+                                <a href=""><i class="glyphicon glyphicon-remove"></i></a>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+            <div class="row" ng-show="isPredicting">
+                <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="Predict()">
+                    <h2 class="text-center">Nueva Prediccion</h2>
+                    <div class="form-box">
+                        <div class="form-group">
+                            <input ng-model="Equipo1" type="text" class="form-control" placeholder="Equipo 1" required />
+                            <input ng-model="Score1" type="text" class="form-control" placeholder="Goles del Equipo 1" required />
+                            <input ng-model="Equipo2" type="text" class="form-control" placeholder="Equipo 2" required />
+                            <input ng-model="Score2" type="text" class="form-control" placeholder="Goles del Equipo 2" required />
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-block" type="submit" ng-click="Predict()">Predecir</button>
+                            <button class="btn btn-primary btn-block" type="button" ng-click="cancelPredict()">Cancelar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

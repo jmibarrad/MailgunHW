@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace App.PrediLiga.Presentation
+namespace App.Prediliga.Presentation
 {
     using Microsoft.AspNet.Identity;
     using Microsoft.Owin;

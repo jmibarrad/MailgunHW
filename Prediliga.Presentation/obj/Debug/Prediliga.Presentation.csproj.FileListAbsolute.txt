@@ -1,0 +1,156 @@
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\App.Prediliga.Presentation.dll.config
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\App.Prediliga.Presentation.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\App.Prediliga.Presentation.pdb
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Owin.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.Helpers.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.Optimization.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.Razor.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\WebGrease.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.Helpers.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.Optimization.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.Razor.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\obj\Debug\Prediliga.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\obj\Debug\App.Prediliga.Presentation.dll
+C:\Users\carlosa\Documents\Visual Studio 2013\Projects\PrediLiga\Prediliga.Presentation\obj\Debug\App.Prediliga.Presentation.pdb
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\App.Prediliga.Presentation.dll.config
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\App.Prediliga.Presentation.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\App.Prediliga.Presentation.pdb
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Owin.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.Helpers.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.Optimization.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.Razor.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\WebGrease.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.Helpers.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.Optimization.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.Razor.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\obj\Debug\Prediliga.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\obj\Debug\App.Prediliga.Presentation.dll
+C:\Users\carlosa\Documents\GitHub\PrediLiga\Prediliga.Presentation\obj\Debug\App.Prediliga.Presentation.pdb
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\App.Prediliga.Presentation.dll.config
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\App.Prediliga.Presentation.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\App.Prediliga.Presentation.pdb
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Owin.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.Helpers.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.Optimization.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.Razor.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.WebPages.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\WebGrease.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.Helpers.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.Optimization.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.Razor.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.WebPages.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\obj\Debug\Prediliga.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\obj\Debug\App.Prediliga.Presentation.dll
+C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Prediliga.Presentation\obj\Debug\App.Prediliga.Presentation.pdb
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\App.Prediliga.Presentation.dll.config
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\App.Prediliga.Presentation.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\App.Prediliga.Presentation.pdb
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Owin.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.Helpers.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.Optimization.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.Razor.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.WebPages.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\WebGrease.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.Helpers.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.Optimization.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.Razor.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.WebPages.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\obj\Debug\Prediliga.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\obj\Debug\App.Prediliga.Presentation.dll
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\Prediliga.Presentation\obj\Debug\App.Prediliga.Presentation.pdb

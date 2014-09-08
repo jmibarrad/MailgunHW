@@ -1,0 +1,107 @@
+﻿
+<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-6 column">
+            <h2>
+                Bienvenido Administrador!
+            </h2>
+        </div>
+        <div class="col-md-6 column">
+            <a class="btn btn-warning" href="/login">Log Out</a>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-6 column">
+            <dl>
+                <dt>
+                    Esta es la pagina central de Prediliga.
+                </dt>
+                <dd>
+                    Es aqui donde puedes, crear, leer, actualizar, editar y eliminar instancias de ligas, equipos y partidos.
+                </dd>
+                
+            </dl>
+        </div>
+        <div class="col-md-6 column">
+            <img alt="140x140" src="http://lorempixel.com/140/140/" class="img-circle" />
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            #
+                        </th>
+                        <th>
+                            Liga
+                        </th>
+                        <th>
+                            Fecha de Inicio
+                        </th>
+                        <th>
+                            Numero de Equipos
+                        </th>
+                        <th>
+                            Numero de Partidos
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="liga in TodasLigas">
+                        <td>{{liga.id_liga}}</td>
+                        <td><a class="btn-link" href="/configleague/{{liga.id_liga}}">{{liga.nombre}}</a></td>
+                        <td>{{liga.fecha_inicio}}</td>
+                        <td>{{liga.num_equipos}}</td>
+                        <td>{{liga.num_partidos}}</td>
+                        <td>
+                            <a href="" ng-click="editLeague(liga.id_liga,liga.nombre,liga.fecha_inicio,liga.num_equipos,liga.num_partidos)"><i class=" glyphicon glyphicon-pencil"></i></a>
+                            <a href="" ng-click="deleteLeague(liga.nombre)"><i class="glyphicon glyphicon-remove"></i></a>
+                        </td>
+                    </tr>  
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+            <div class="row" ng-hide="isEditing">
+                <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="addNewLeague()">
+                    <h2 class="text-center">Nueva Liga</h2>
+                    <div class="form-box">
+                        <div class="form-group">
+                            <input ng-model="idLiga" type="text" class="form-control" placeholder="ID de la Liga" required />
+                            <input ng-model="NombreLiga" type="text" class="form-control" placeholder="Nombre de Liga" required />
+                            <input ng-model="FechaInicio" type="date" class="form-control" placeholder="Fecha de Inicio" required />
+                            <input ng-model="NumEquipos" type="text" class="form-control" placeholder="Numero de Equipos" required />
+                            <input ng-model="NumPartidos" type="text" class="form-control" placeholder="Numero de Partidos" required />
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-block" type="submit" ng-click="addNewLeague()">Agregar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="row" ng-show="isEditing">
+                <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="FinishEditing()">
+                    <h2 class="text-center">Editar Liga</h2>
+                    <div class="form-box">
+                        <div class="form-group">
+                            <input ng-model="NuevoidLiga" type="text" class="form-control" placeholder="ID de la Liga" required />
+                            <input ng-model="NuevoNombre" type="text" class="form-control" placeholder="Nombre de Liga" required />
+                            <input ng-model="NuevaFechaInicio" type="date" class="form-control" placeholder="Fecha de Inicio" required />
+                            <input ng-model="NuevoNumEquipos" type="text" class="form-control" placeholder="Numero de Equipos" required />
+                            <input ng-model="NuevoNumPartidos" type="text" class="form-control" placeholder="Numero de Partidos" required />
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-block" type="submit">Guardar</button>
+                            <button class="btn btn-primary btn-block" type="button" ng-click="cancelEdit()">Cancelar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

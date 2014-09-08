@@ -1,19 +1,42 @@
 ﻿@{
     PageData["title"] = "AngularJS SPA | Sign In";
 }
-<div class="row">
-    <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="login(userName, password)">
-        <h2 class="text-center">Sign In</h2>
-        <div class="form-box">
-            <div class="form-group">
-                <input ng-model="user.Email" type="email" class="form-control" placeholder="Username or Email" required autofocus />
-            </div>
-            <div class="form-group">
-                <input ng-model="user.Password" type="password" class="form-control" placeholder="Password" required />
-            </div>
-            <div class="form-group">
-                <button class="btn btn-primary btn-block" type="submit" >Sign In</button>
-            </div>
+
+<div class="container" ng-controller="LoginCtrl">
+    <div class="row clearfix">
+        <div class="col-md-6 column">
+            <img alt="140x140" src="http://lorempixel.com/140/140/" class="img-circle" />
         </div>
-    </form>
+        <div class="col-md-6 column">
+            <h1>
+                PrediLiga
+            </h1>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-6 column">
+            <dl>
+                <dt>
+                    Bienvenido a Prediliga!
+                </dt>
+                <dd>
+                    Si eres nuevo en PrediLiga, Registrate Aqui. Es gratis.
+                </dd>
+            </dl> <button class="btn btn-lg btn-primary" type="button" ng-click="register()">RegistrateAqui</button>
+        </div>
+        <div class="col-md-6 column">
+            <form role="form">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">UserName</label><input ng-model="user.Email" type="text" class="form-control" placeholder="Username or Email" required autofocus />
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Password</label><input ng-model="user.Password" type="password" class="form-control" placeholder="Password" required />
+                </div>
+            </form> <button class="btn btn-success btn-lg btn-block" type="submit" ng-disabled="!(user.Email && user.Password)" ng-click="login(user.Email,user.Password)">Sign In</button> <a class="btn btn-success btn-lg btn-block" href="/forgot-password">Forgot Password</a>
+        
+            <div class="alert alert-success" role="alert" ng-show="ShMessage1"> Error: La contraseña para Admin esta incorrecta.</div>
+            <div class="alert alert-success" role="alert" ng-show="ShMessage2"> Error: El nombre de usuario esta incorrecto.</div>
+            <div class="alert alert-success" role="alert" ng-show="ShMessage3"> Error: La contraseña para User esta incorrecta.</div>
+        </div>
+    </div>
 </div>

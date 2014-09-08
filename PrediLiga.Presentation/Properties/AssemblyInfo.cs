@@ -12,11 +12,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PrediLiga.Presentation")]
+[assembly: AssemblyTitle("Prediliga.Presentation")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PrediLiga.Presentation")]
+[assembly: AssemblyProduct("Prediliga.Presentation")]
 [assembly: AssemblyCopyright("Copyright © 2014 ")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -28,7 +28,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9c2df9e5-0975-49c7-b76d-a99368cfbf03")]
+[assembly: Guid("976f6bc2-d7fa-475d-96c5-a40f0e329757")]
 
 [assembly: CLSCompliant(true)]
 

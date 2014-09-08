@@ -10,8 +10,6 @@
     <projectUrl>http://www.asp.net/web-api</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Enables ASP.NET Web API tracing using System.Diagnostics.</description>
-    <releaseNotes />
-    <copyright />
     <language>en-US</language>
     <tags>Microsoft AspNet WebApi AspNetWebApi Diagnostics Tracing</tags>
     <dependencies>

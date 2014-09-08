@@ -4,11 +4,11 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace App.PrediLiga.Presentation
+namespace App.Prediliga.Presentation
 {
     using System.Web.Routing;
 
-    using App.PrediLiga.Presentation.Routing;
+    using App.Prediliga.Presentation.Routing;
 
     public class RouteConfig
     {

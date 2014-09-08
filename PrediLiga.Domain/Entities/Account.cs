@@ -1,7 +1,8 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
+using PrediLiga.Domain.Entities;
 
-namespace PrediLiga.Domain.Entities
+namespace PrediLiga.domain.Entities
 {
     public class Account : IEntity
     {
@@ -14,11 +15,14 @@ namespace PrediLiga.Domain.Entities
 
         public virtual string Password { get; set; }
 
-        public virtual IEnumerable<Leagues> Leagues { get; set; }
+        public virtual IEnumerable<League> Leagues { get; set; }
+
 
         public virtual bool CheckPassword(string password)
         {
             return true;
         }
+
     }
+
 }

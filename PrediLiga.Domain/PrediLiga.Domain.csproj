@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{82DCDBA5-4E13-4FD4-AE3F-3F56074F43F3}</ProjectGuid>
+    <ProjectGuid>{CF0A25F1-07EA-4739-987E-ED5D8476E6C1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PrediLiga.Domain</RootNamespace>
@@ -40,8 +40,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Account.cs" />
+    <Compile Include="Entities\Admin.cs" />
     <Compile Include="Entities\IEntity.cs" />
+    <Compile Include="Entities\League.cs" />
     <Compile Include="Entities\Leagues.cs" />
+    <Compile Include="Entities\Match.cs" />
+    <Compile Include="Entities\PrediLiga.cs" />
+    <Compile Include="Entities\Team.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\IReadOnlyRepository.cs" />
     <Compile Include="Services\IWriteOnlyRepository.cs" />
