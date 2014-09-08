@@ -10,6 +10,5 @@ C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\Pre
 C:\Users\JMIBARRA\Desktop\PrediLiga-fd1a064fb84e2ab4944295222fa7b5197e9ac03c\PrediLiga.domain\obj\Debug\PrediLiga.Domain.pdb
 C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\bin\Debug\PrediLiga.Domain.dll
 C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\bin\Debug\PrediLiga.Domain.pdb
-C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\obj\Debug\PrediLiga.domain.csprojResolveAssemblyReference.cache
 C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\obj\Debug\PrediLiga.Domain.dll
 C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\obj\Debug\PrediLiga.Domain.pdb
