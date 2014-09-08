@@ -1,0 +1,5 @@
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Domain\bin\Debug\PrediLiga.Domain.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Domain\bin\Debug\PrediLiga.Domain.pdb
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Domain\obj\Debug\PrediLiga.Domain.csprojResolveAssemblyReference.cache
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Domain\obj\Debug\PrediLiga.Domain.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Domain\obj\Debug\PrediLiga.Domain.pdb

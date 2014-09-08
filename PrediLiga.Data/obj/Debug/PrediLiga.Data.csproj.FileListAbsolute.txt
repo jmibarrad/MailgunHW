@@ -1,0 +1,16 @@
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\PrediLiga.Data.dll.config
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\PrediLiga.Data.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\PrediLiga.Data.pdb
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\AcklenAvenue.Data.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\AcklenAvenue.Data.NHibernate.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\NHibernate.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\PrediLiga.Domain.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\PrediLiga.Domain.pdb
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\FluentNHibernate.xml
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\bin\Debug\NHibernate.xml
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\obj\Debug\PrediLiga.Data.csprojResolveAssemblyReference.cache
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\obj\Debug\PrediLiga.Data.dll
+C:\Users\JMIBARRA\Desktop\Reemplazar\prediliga-master\PrediLiga.Data\obj\Debug\PrediLiga.Data.pdb
