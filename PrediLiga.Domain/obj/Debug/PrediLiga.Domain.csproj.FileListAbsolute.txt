@@ -12,3 +12,4 @@ C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\bin\Debug\PrediLig
 C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\bin\Debug\PrediLiga.Domain.pdb
 C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\obj\Debug\PrediLiga.Domain.dll
 C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\obj\Debug\PrediLiga.Domain.pdb
+C:\Users\JMIBARRA\Documents\GitHub\MailgunHW\PrediLiga.domain\obj\Debug\PrediLiga.domain.csprojResolveAssemblyReference.cache
